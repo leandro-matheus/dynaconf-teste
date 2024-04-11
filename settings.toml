@@ -1,0 +1,11 @@
+[default]
+MSG = "Hello  World!"
+
+[development]
+MSG = "Hello Dev!"
+
+[production]
+MSG = "Hello Prod!"
+
+[testing]
+MSG = "Hello Test!"
